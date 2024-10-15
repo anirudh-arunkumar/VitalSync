@@ -1,2 +1,2 @@
 # VitalSync
-Backend Rest API for Health Tracking App
+Backend Rest API for Vitality Tracking and Fitness Progress
